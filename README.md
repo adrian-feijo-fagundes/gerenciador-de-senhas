@@ -7,11 +7,11 @@ Praticar conceitos que venho estudado, além de suprir uma necessidade pessoal c
 ## Objetivo
 
 O objetivo deste projeto é criar um sistema para gerenciar senhas, cada usuário poderá cadastras senhas 
-as quais só podem ser acessadas diante de uma chave definidas por eles e que não ficará salva por medida de segurança.
+as quais só podem ser acessadas diante de uma chave-mestra definida por eles e que não ficará salva por medida de segurança.
 
 ## Observações
 
-- Provavelmente a primeira versão será uma interface no terminal ou seja uma aplicação `CLI`, mas podem ocorrer mudanças e ser realizada a implementação de um front-end.
+- Provavelmente a primeira versão será uma interface no terminal ou seja uma aplicação `CLI`
 
 ## Funcionalidades
 
@@ -29,4 +29,11 @@ as quais só podem ser acessadas diante de uma chave definidas por eles e que n�
 
 ## Tecnologias
 
-- Ainda não definidas
+### Front-ent
+    - Javascript
+
+### Backend
+    - Java
+
+### Banco de dados
+    - SQLite (no primeiro momento)
